@@ -14,7 +14,7 @@ I am available for remote United States roles and engagements.
 
 | Capability | Project | What to inspect |
 |---|---|---|
-| Operational AI delivery | [RelayOps AI](https://github.com/Jermaine-Anugwom/relayops-ai) | Evidence-bound intake, routing, review, audit |
+| Operational AI delivery | [RelayOps AI](https://github.com/Jermaine-Anugwom/relayops-ai) | Evidence-bound intake, routing, review, fingerprint |
 | Evaluation engineering | [EvalForge AI](https://github.com/Jermaine-Anugwom/evalforge-ai) | Golden sets, adversarial tests, regression gates |
 | Resilient field systems | [EdgeSync FieldKit](https://github.com/Jermaine-Anugwom/edgesync-fieldkit) | Offline queues, replay safety, conflicts |
 | Agent control | [ToolGate](https://github.com/Jermaine-Anugwom/toolgate) | Scopes, approvals, idempotency |
