@@ -8,7 +8,6 @@ the workflow improves, and leaving the customer team with something they can ope
 
 My background combines AI systems building, technical program leadership, federal
 disaster-recovery operations, field coordination, and cross-functional delivery.
-I am available for remote United States roles and engagements.
 
 ## Start here
 
