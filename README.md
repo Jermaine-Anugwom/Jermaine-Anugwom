@@ -20,6 +20,8 @@ disaster-recovery operations, field coordination, and cross-functional delivery.
 | Resilient systems | [EdgeSync FieldKit](https://github.com/Jermaine-Anugwom/edgesync-fieldkit) | Offline queues, replay safety, conflicts |
 | Operational AI delivery | [RelayOps AI](https://github.com/Jermaine-Anugwom/relayops-ai) | Evidence-bound intake, routing, review, fingerprint |
 
+**Production work:** Commercial and production systems, including TALON OS, a U.S. Army xTech Adaptive Strike semifinalist robotics platform, and an enterprise AI estimating deployment that increased bid win rates by 30 percentage points, are proprietary; ask me about them.
+
 ## How I work
 
 **Discover → model → build → evaluate → deploy → measure → hand off**
@@ -39,4 +41,4 @@ and operating controls inspectable—not to imitate customer evidence.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jermaine-anugwom)
+[LinkedIn](https://www.linkedin.com/in/jermaine-anugwom) · [janugwom@talonos.ai](mailto:janugwom@talonos.ai)
