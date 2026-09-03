@@ -13,12 +13,12 @@ disaster-recovery operations, field coordination, and cross-functional delivery.
 
 | Capability | Project | What to inspect |
 |---|---|---|
-| Enterprise incident command | [Incident Command AI](https://github.com/Jermaine-Anugwom/incident-command-ai) | ServiceNow integration, evidence graph, approval gate, immutable trace |
-| Operational AI delivery | [RelayOps AI](https://github.com/Jermaine-Anugwom/relayops-ai) | Evidence-bound intake, routing, review, fingerprint |
+| Workflow transformation | [TaskBridge AI](https://github.com/Jermaine-Anugwom/taskbridge-ai) | Workflow discovery, model traces, evidence gates, operational handoff |
+| Enterprise incident command | [Incident Command AI](https://github.com/Jermaine-Anugwom/incident-command-ai) | ServiceNow integration, evidence graph, approvals, immutable trace |
 | Evaluation engineering | [EvalForge AI](https://github.com/Jermaine-Anugwom/evalforge-ai) | Golden sets, adversarial tests, regression gates |
-| Resilient field systems | [EdgeSync FieldKit](https://github.com/Jermaine-Anugwom/edgesync-fieldkit) | Offline queues, replay safety, conflicts |
 | Agent control | [ToolGate](https://github.com/Jermaine-Anugwom/toolgate) | Scopes, approvals, idempotency |
-| AI security | [Prompt Firewall Lab](https://github.com/Jermaine-Anugwom/prompt-firewall-lab) | Injection fixtures and fail-closed parsing |
+| Resilient systems | [EdgeSync FieldKit](https://github.com/Jermaine-Anugwom/edgesync-fieldkit) | Offline queues, replay safety, conflicts |
+| Operational AI delivery | [RelayOps AI](https://github.com/Jermaine-Anugwom/relayops-ai) | Evidence-bound intake, routing, review, fingerprint |
 
 ## How I work
 
@@ -34,10 +34,9 @@ and operating controls inspectable—not to imitate customer evidence.
 [Evidence RAG](https://github.com/Jermaine-Anugwom/evidence-rag) ·
 [ModelRoute](https://github.com/Jermaine-Anugwom/modelroute) ·
 [PolicyTrace](https://github.com/Jermaine-Anugwom/policytrace) ·
+[Prompt Firewall Lab](https://github.com/Jermaine-Anugwom/prompt-firewall-lab) ·
 [Impact Ledger AI](https://github.com/Jermaine-Anugwom/impact-ledger-ai)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jermaine-anugwom) ·
-[janugwom@talonos.ai](mailto:janugwom@talonos.ai) ·
-[talonos.ai](https://www.talonos.ai)
+[LinkedIn](https://www.linkedin.com/in/jermaine-anugwom)
