@@ -1,13 +1,5 @@
 # Jermaine Anugwom
 
-**Forward-Deployed AI Builder | I turn messy operations into reliable, measurable AI workflows.**
-
-I work where operating reality meets implementation: discovering the real decision,
-translating it into an evidence-bound system, testing failure modes, measuring whether
-the workflow improves, and leaving the customer team with something they can operate.
-
-My background combines AI systems building, technical program leadership, federal
-disaster-recovery operations, field coordination, and cross-functional delivery.
 
 ## Start here
 
